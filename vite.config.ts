@@ -16,5 +16,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/boletindecretos/',
+  base: 'https://f5extcorporacion.github.io/boletindecretos/base',
 });
