@@ -1,0 +1,14 @@
+.link-com-hover:hover {
+    background-color: lightblue;
+    color: black;
+    padding: 2px;
+    border-radius: 20px;
+  }
+  .boletingestion{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+  }
+  .contenido{
+    width: 600px;
+  }
