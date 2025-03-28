@@ -164,6 +164,6 @@ const routes = [
   },
 ];
 
-const router = createBrowserRouter(routes, { basename: '/base' });
+const router = createBrowserRouter(routes, { basename: 'https://f5extcorporacion.github.io/boletindecretos/base' });
 
 export default router;
