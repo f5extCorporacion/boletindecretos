@@ -164,6 +164,6 @@ const routes = [
   },
 ];
 
-const router = createBrowserRouter(routes, { basename: '/base' });
+const router = createBrowserRouter(routes, { basename: '/boletindecretos' });
 
 export default router;
