@@ -13,7 +13,7 @@ import TextField from '@mui/material/TextField';
 import Checkbox from '@mui/material/Checkbox';
 import IconifyIcon from 'components/base/IconifyIcon';
 import Image from 'components/base/Image';
-import Logo from 'assets/images/Logo.png';
+import Logo from './assets/images/Logo.png';
 import paths from 'routes/paths';
 import { loginUser } from 'peticiones';
 import Swal from 'sweetalert2'
